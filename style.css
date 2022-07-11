@@ -30,3 +30,6 @@ main{
 main img{
     max-width: 100%;
 }
+main h1{
+    margin: 0;
+}
